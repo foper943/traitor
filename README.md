@@ -61,3 +61,4 @@ If the machine you're attempting privesc on cannot reach GitHub to download the 
 Branch1 Change 1
 Branch1 Change 2
 Branch1 Change 3
+Branch1 Change 4
